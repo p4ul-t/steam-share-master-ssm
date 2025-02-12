@@ -25,6 +25,9 @@ Steam is a trademark of Valve Corporation.
 
    **DISCLAIMER:** You must deactivate Steam Cloud on the game you want to play after blocking Steam, but don't worry—Steam Cloud saves will resynchronize and reactivate by itself after unblocking Steam.
 
+   ![demonstrationSSM](https://github.com/user-attachments/assets/d7bc460b-fd9b-48ca-b594-e887b2ac3ced)
+
+
 ## 🔥 Known Issues & Limitations
 - Some games with always-online DRM may not work.
 - If Steam updates its Family Sharing policies, the method may require adjustments.
