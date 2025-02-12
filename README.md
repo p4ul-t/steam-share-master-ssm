@@ -23,10 +23,15 @@ Steam is a trademark of Valve Corporation.
 3. Click on **Block Steam** to isolate Steam from the network if someone from your Steam Family is currently playing a game you want to play
 4. Click on **Unblock Steam** to reconnect Steam to the network when you're done playing  
 
-   **DISCLAIMER:** You must deactivate Steam Cloud on the game you want to play after blocking Steam, but don't worry—Steam Cloud saves will resynchronize and reactivate by itself after unblocking Steam.
+   **DISCLAIMER:** You must deactivate Steam Cloud on the game you want to play after blocking Steam, but don't worry : Steam Cloud saves will resynchronize and reactivate by itself after unblocking Steam.
 
 
-   ![demonstrationSSMHQHQ](https://github.com/user-attachments/assets/c922d13c-5348-4d2c-a5d6-0f4c29427fbc)
+
+
+
+https://github.com/user-attachments/assets/c67c62ed-fe92-435e-8836-c0ed193b9482
+
+
 
 
 ## 🔥 Known Issues & Limitations
