@@ -13,8 +13,9 @@ Steam is a trademark of Valve Corporation.
 - Lightweight and easy to set up
 
 ## 📥 Installation
-1. Unzip and store the folder anywhere you want
-2. Click on the `.exe` file to launch the program  
+1. [Download](https://github.com/paultisseyre/SteamsharemasterSSM/releases)
+2. Unzip and store the folder anywhere you want
+3. Click on the `.exe` file to launch the program  
    *When the program is launched, pin it to your taskbar for quicker access in the future.*
 
 ## 🛠 Usage
