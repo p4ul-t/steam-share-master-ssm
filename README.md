@@ -1,7 +1,7 @@
 # Steam Share Master - SSM
 
 ## 📝 Description
-Steam Share Master (SSM) is a portable Windows software coded in Python that isolates Steam from the internet on demand while keeping your PC online.  
+Steam Share Master (SSM) is a portable Windows software coded in Python (3.13)that isolates Steam from the internet on demand while keeping your PC online.  
 It lets you play Steam Family Sharing games simultaneously, so you and your family members can enjoy the same game without interruptions.  
 SSM has NO affiliation with Steam.  
 Steam is a trademark of Valve Corporation.
@@ -9,7 +9,7 @@ Steam is a trademark of Valve Corporation.
 ## 🚀 Features
 - Keep Steam isolated from the network without disconnecting from the internet
 - Play shared family games simultaneously
-- Simple and intuitive interface using PyQt6
+- Simple and intuitive interface using Python 3.13 and PyQt6
 - Lightweight and easy to set up
 
 ## 📥 Installation
