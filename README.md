@@ -13,7 +13,7 @@ Steam is a trademark of Valve Corporation.
 - Lightweight and easy to set up
 
 ## 📥 Installation
-1. [Download](https://github.com/paultisseyre/SteamsharemasterSSM/releases)
+1. [Download](https://github.com/p4ul-t/steam-share-master-ssm/releases/tag/v0.1.4)
 2. Unzip and store the folder anywhere you want
 3. Click on the `.exe` file to launch the program  
    *When the program is launched, pin it to your taskbar for quicker access in the future.*
@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/c67c62ed-fe92-435e-8836-c0ed193b9482
 - If Steam updates its Family Sharing policies, the method may require adjustments.
 
 ## 📄 License
-This project is licensed under the GNU General Public License v3.0. See [LICENSE](https://github.com/paultisseyre/SteamsharemasterSSM/blob/main/LICENSE) for details.
+This project is licensed under the GNU General Public License v3.0. See [LICENSE](https://github.com/p4ul-t/steam-share-master-ssm/blob/main/LICENSE) for details.
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the project, submit issues, or create pull requests.
