@@ -29,10 +29,10 @@ Go back to Steam Share Master and click on `Locate Steam.exe` button (below the 
 
 ## 📝 Step 5
 In the file explorer pop-up window : 
--Search to the path that you see in your Steam Storage settings in the `📝 Step 3`.
--When you're in, scroll down until you see the `steam` file.
--Click on it.
--Hit 'Open' at the bottom right of the pop-up window.
+- Search to the path that you see in your Steam Storage settings in the `📝 Step 3`.
+- When you're in, scroll down until you see the `steam` file.
+- Click on it.
+- Hit 'Open' at the bottom right of the pop-up window.
 
 ![5](https://github.com/user-attachments/assets/5d8fa366-30ce-4efa-96b0-3a0895822fe3)
 
