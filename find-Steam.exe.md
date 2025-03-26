@@ -24,7 +24,8 @@ You will see the actual path where `Steam.exe` is located.
 ## 📝 Step 4
 Go back to Steam Share Master and click on `Locate Steam.exe` button (below the `Block`/`Unblock` buttons)
 
-![4](https://github.com/user-attachments/assets/5c26929b-ceee-4b89-9507-ebdedb2e882a)
+![4](https://github.com/user-attachments/assets/ce94e027-5578-4be2-9a03-43161286726e)
+
 
 ## 📝 Step 5
 In the file explorer pop-up window : 
@@ -40,8 +41,9 @@ Hit 'Open' at the bottom right of the pop-up window.
 ## 📝 Step 6
 The new path should appear here in Steam Share Master, enjoy :
 
-![6](https://github.com/user-attachments/assets/b24498a2-d572-498a-8bce-dcd3b706f63b)
 
+
+![6](https://github.com/user-attachments/assets/25064b9d-9eb5-4cf4-97ee-44e0cf7f2b43)
 
 
 
