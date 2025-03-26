@@ -39,6 +39,9 @@ https://github.com/user-attachments/assets/c67c62ed-fe92-435e-8836-c0ed193b9482
 - Some games with always-online DRM may not work.
 - If Steam updates its Family Sharing policies, the method may require adjustments.
 
+## 🔎 Troubleshooting Guide
+"I don't know where my `Steam.exe` file is and my Steam.exe path is not by default `C:\Program Files (x86)\Steam\Steam.exe`" [INSTRUCTIONS](https://github.com/p4ul-t/steam-share-master-ssm/blob/main/find-Steam.exe.md)    
+
 ## 📄 License
 This project is licensed under the GNU General Public License v3.0. See [LICENSE](https://github.com/p4ul-t/steam-share-master-ssm/blob/main/LICENSE) for details.
 
@@ -48,9 +51,6 @@ Contributions are welcome! Feel free to fork the project, submit issues, or crea
 ## ⭐ Donate
 If you find this software useful, consider buying me a cup of coffee on Paypal :  
 [Buy me a coffee](https://www.paypal.com/paypalme/poluxyoutube?country.x=FR&locale.x=fr_FR)
-
-## 🔎 Troubleshooting Guide
-"I don't know where my `Steam.exe` file is and my Steam.exe path is not by default `C:\Program Files (x86)\Steam\Steam.exe`" [INSTRUCTIONS](https://github.com/p4ul-t/steam-share-master-ssm/blob/main/find-Steam.exe.md)  
 
 
 
