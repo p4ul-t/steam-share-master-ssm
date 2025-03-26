@@ -50,7 +50,7 @@ If you find this software useful, consider buying me a cup of coffee on Paypal :
 [Buy me a coffee](https://www.paypal.com/paypalme/poluxyoutube?country.x=FR&locale.x=fr_FR)
 
 ## 🔎 Troubleshooting Guide
-"I don't know where my `Steam.exe` file is and my Steam.exe path is not by default `C:\Program Files (x86)\Steam\Steam.exe` [READ THIS](https://github.com/p4ul-t/steam-share-master-ssm/blob/main/find-Steam.exe.md)  
+"I don't know where my `Steam.exe` file is and my Steam.exe path is not by default `C:\Program Files (x86)\Steam\Steam.exe`" [INSTRUCTIONS](https://github.com/p4ul-t/steam-share-master-ssm/blob/main/find-Steam.exe.md)  
 
 
 
