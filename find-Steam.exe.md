@@ -1,4 +1,4 @@
-# Find 'Steam.exe' Path - SSM
+# Locate 'Steam.exe' Path - SSM
 
 ## 📝 Step 1
 Open Steam and click on `Steam` in the top left corner. 
