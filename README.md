@@ -20,7 +20,7 @@ Steam is a trademark of Valve Corporation.
 
 ## 🛠 Usage
 1. Launch Steam Share Master
-2. [Locate](https://github.com/p4ul-t/steam-share-master-ssm/blob/main/find-Steam.exe.md) your `Steam.exe` file if it's not located in `C:\Program Files (x86)\Steam\Steam.exe` by default (optional)
+2. Locate your `Steam.exe` file if it's not located in `C:\Program Files (x86)\Steam\Steam.exe` by default ([optional](https://github.com/p4ul-t/steam-share-master-ssm/blob/main/find-Steam.exe.md))
 3. Click on **Block Steam** to isolate Steam from the network if someone from your Steam Family is currently playing a game you want to play
 4. Click on **Unblock Steam** to reconnect Steam to the network when you're done playing  
 
