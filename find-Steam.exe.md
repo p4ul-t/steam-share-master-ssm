@@ -17,7 +17,8 @@ Right after click on `Storage` in the pop-up Window.
 You will see the actual path where `Steam.exe` is located.
 
 
-![3](https://github.com/user-attachments/assets/cf19db60-b990-43e8-9922-70ada3b81a80)
+![3](https://github.com/user-attachments/assets/29405c5a-bf47-4281-bfb9-041b31ac56b0)
+
 
 
 ## 📝 Step 4
