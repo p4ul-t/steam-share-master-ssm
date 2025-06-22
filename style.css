@@ -1,0 +1,103 @@
+body {
+    background-color: #2D2D2D;
+    color: #EAEAEA;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 15px;
+    gap: 10px;
+}
+
+button {
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 300;
+    border-radius: 8px;
+    height: 45px;
+    transition: filter 0.2s ease-in-out;
+}
+
+button:hover {
+    filter: brightness(0.9); 
+}
+
+#block-btn {
+    background-color: #ff0000; 
+    flex-grow: 1;
+}
+
+#unblock-btn {
+    background-color: #0ae014; 
+    flex-grow: 1;
+}
+
+#select-path-btn {
+    background-color: #404040;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+#path-label-container {
+    width: 100%;
+    background-color: #222222;
+    border: 1px solid #4F4F4F;
+    border-radius: 8px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+#path-label {
+    color: #CCCCCC;
+    margin: 0;
+    font-size: 12px;
+}
+
+#log-display {
+    background-color: #000000;
+    color: #00db12;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    line-height: 1.4;
+    border: 1px solid #4F4F4F;
+    border-radius: 8px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    word-break: break-all;
+    flex-grow: 1;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 10px;
+    flex-shrink: 0;
+}
+
+.footer p {
+    color: #888888;
+    margin: 2px 0;
+    font-size: 10px;
+}

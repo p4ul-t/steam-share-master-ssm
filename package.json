@@ -1,0 +1,33 @@
+{
+  "name": "steam-share-master",
+  "version": "0.1.4",
+  "description": "Isolate Steam from network",
+  "main": "main.js",
+  "author": "p4ul-t",
+  "license": "GPL-3.0",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "build": {
+    "appId": "com.p4ul-t.steamsharemaster",
+    "productName": "Steam Share Master",
+    "win": {
+      "icon": "assets/SSM-logo-png.ico",
+      "requestedExecutionLevel": "requireAdministrator"
+    },
+    "nsis": {
+      "installerIcon": "assets/SSM-logo-png.ico",
+      "uninstallerIcon": "assets/SSM-logo-png.ico",
+      "perMachine": true,
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "dependencies": {
+    "electron-sudo": "^4.0.12"
+  }
+}
