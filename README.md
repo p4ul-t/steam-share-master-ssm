@@ -14,11 +14,12 @@ Steam is a trademark of Valve Corporation.
 - Play shared family games simultaneously
 - Simple and intuitive interface using Python 3.13 and PyQt6
 - Lightweight and easy to set up
+- System tray icon with options
 
 ## 📥 Installation
-1. [Download](https://github.com/p4ul-t/steam-share-master-ssm/releases)
+1. [Download](https://github.com/p4ul-t/steam-share-master-ssm/releases/download/v0.1.4.electron_js/Steam.Share.Master.Setup.0.1.4.exe)
 2. Unzip and store the folder anywhere you want
-3. Click on the `.exe` file to launch the program  
+3. Click on the `.exe` file to install the program  
    *When the program is launched, pin it to your taskbar for quicker access in the future.*
 
 ## 🛠 Usage
