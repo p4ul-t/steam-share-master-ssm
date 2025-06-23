@@ -13,7 +13,7 @@ Steam is a trademark of Valve Corporation.
 ## 🚀 Features
 - Keep Steam isolated from the network without disconnecting your PC from the internet
 - Play shared family games simultaneously
-- Simple and intuitive interface using Python 3.13 and PyQt6
+- Simple and intuitive interface
 - Lightweight and easy to set up
 - System tray icon with options
 
